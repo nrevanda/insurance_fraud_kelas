@@ -2,8 +2,7 @@ numpy==2.2.1
 pandas==2.3.1
 seaborn==0.13.2
 matplotlib==3.10.5
-sklearn==1.7.1
-scikit.learn==1.7.1
+scikit-learn==1.7.1
 category-encoders==2.8.1
 xgboost==3.0.4
 streamlit==1.49.1
